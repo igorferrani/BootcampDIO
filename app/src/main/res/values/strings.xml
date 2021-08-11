@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BootcampKotlin</string>
+    <string name="iv_photograph_content_description">Foto do contato</string>
+
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>
